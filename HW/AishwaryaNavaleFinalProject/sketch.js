@@ -163,7 +163,7 @@ button.hide();
     page4=false;
 
     input.show();
-    
+
     button.show();
     capture.show();
     capture.size(800,600);
